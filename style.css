@@ -29,7 +29,7 @@ h1{
 }
 
 .button{
-    border: rgb(238, 230, 230);
+    
     display: block;
     position: absolute;
     left: 50%;
@@ -39,11 +39,11 @@ h1{
     width: 15rem;
     text-align: center;
     color: #fff;
-    
+    border-color: #fff; 
     font-size: 1.5rem;
     font-weight: bold;
     text-transform: uppercase;
-    text-decoration: none ;
+    /*text-decoration: none ;*/
     transform: translateX(-50%);
 }
 
